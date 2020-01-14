@@ -8,7 +8,7 @@ import java.io.InputStream;
 import java.util.HashMap;
 import java.util.Map;
 
-public class XmlTagEngine implements TagEngine{
+public class XmlTagEngine implements TagEngine {
 
     InputStream inputStream;
 
@@ -24,15 +24,15 @@ public class XmlTagEngine implements TagEngine{
 
     public void process() {
         XMLInputFactory factory = XMLInputFactory.newFactory();
-        XMLStreamReader streamReader = null;
+        XMLStreamReader streamReader;
         try {
             streamReader = factory.createXMLStreamReader(this.inputStream);
             while (streamReader.hasNext()) {
                 int eventType = streamReader.next();
-                if(eventType == XMLStreamConstants.START_ELEMENT) {
+                if (eventType == XMLStreamConstants.START_ELEMENT) {
                     TagProcessor t = processorMap.get(streamReader.getName().toString());
 
-                    if(t != null) {
+                    if (t != null) {
                         t.process(streamReader);
                     }
                 }
@@ -40,7 +40,5 @@ public class XmlTagEngine implements TagEngine{
         } catch (XMLStreamException e) {
             e.printStackTrace();
         }
-
-
     }
 }

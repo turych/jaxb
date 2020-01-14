@@ -5,7 +5,6 @@ import yml.rozetka.CategoryProcessor;
 import yml.rozetka.OfferProcessor;
 
 import javax.xml.bind.JAXBException;
-import javax.xml.stream.XMLStreamException;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 

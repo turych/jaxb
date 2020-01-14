@@ -2,11 +2,10 @@ package processing;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
-import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 import javax.xml.stream.XMLStreamReader;
 
-public abstract class JAXBProcessor<T> implements TagProcessor{
+public abstract class JAXBProcessor<T> implements TagProcessor {
 
     private JAXBContext jaxbContext;
     private Unmarshaller unmarshaller;

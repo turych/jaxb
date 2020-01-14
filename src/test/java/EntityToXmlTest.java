@@ -1,4 +1,6 @@
-import org.junit.jupiter.api.*;
+import org.junit.jupiter.api.AfterAll;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
 import yml.rozetka.Currency;
 import yml.rozetka.Offer;
 import yml.rozetka.OfferParam;
