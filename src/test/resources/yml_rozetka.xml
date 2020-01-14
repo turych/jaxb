@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-07-11 14:03">
+   <shop>
+      <name>Electrotorg</name>
+      <company>Electrotorg</company>
+      <url>https://electrotorg.biz.ua/</url>
+      <currencies>
+         <currency id="UAH" rate="1" />
+      </currencies>
+      <categories>
+         <category id="574" parentId="820">Арматура СИП</category>
+         <category id="1001">Акция</category>
+         <category id="1030" parentId="1029">Арматура СИП ТМ ElectroTorg</category>
+         <category id="820">Электроустановочные материалы и материалы для монтажа</category>
+         <category id="1029">Товары собственного производства</category>
+      </categories>
+      <cpa>0</cpa>
+      <offers>
+         <offer id="624" available="true" group_id="1290">
+            <vendor>ElectroTorg</vendor>
+            <param name="Тип арматуры">Зажим натяжной(анкерный)</param>
+            <param name="Сечение жилы, кв.мм.">2х16-25</param>
+            <param name="Вес">0.105</param>
+            <param name="Цена за">штуку</param>
+            <param name="Объем">0.0013</param>
+            <name>Зажим проволочный PR 2х16-25 ET ElectroTorg  ET-PR</name>
+            <description>&lt;p&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/1%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886154217" alt="" width="300" height="64" /&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886162448" alt="" width="300" height="64" /&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/3%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886169105" alt="" width="300" height="64" /&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;В каталоге интернет-магазина ЭлектроТорг представлен широкий ассортимент универсальных приспособлений для крепления самонесущей системы СИП, САП, СИП-5, СИП-5НГ и AsXSn до 1кВ с двумя несущими жилами СИП, изолированных проводов одинакового сечения ответвлений воздушных линий, линий освещения, а также проводов абонентов к опорам или стенам зданий (посредством дополнительных монтажных элементов) с углом поворота до 150 градусов. Клиновидное конструктивное исполнение обеспечивает компенсирование усадки изоляции кабеля во время продолжительности его эксплуатирования и гарантирует надежность произведения закрепления на протяжении всего срока его службы. Установка осуществляется довольно просто без надобности оголения или отделения несущего троса. Не требуется специального профессионального инструмента или особых навыков. Съемная дужка способствует легкости монтажа на опоры, где есть замкнутые крепления, рассоединение которых влекут за собой большие трудозатраты. Конструкция и материалы проволочного зажима обеспечивают надежное крепление и долговечное использование без потери эксплуатационных характеристик. Постоянно проводятся исследования и испытания для снижения стоимости, увеличения надежности и удобства использования зажимов. Все вышеперечисленные факторы делают проволочные зажимы производства ЭлектроТорг одним из лучших вариантов для выбора на сегодняшний день.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;em&gt;Основные характеристики&lt;/em&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;Крепежная съемная дужка выполнена из высокопрочной низкоуглеродистой стали повышенной жесткости с покрытием цинком увеличенной толщины;&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Прижимные пластинки - высокопрочная низкоуглеродистая сталь марки 09Г2С, толщиной 2мм и с покрытием цинком увеличенной толщины (не менее 7 мкм);&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Изолирующие щечки представляют собой прочный композит, стабилизированнвц к УФ лучам и погодным условиям;&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Продано более 100 000 изделий по Украине и ближнему зарубежью;&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Все метизы выполнены согласно ГОСТ 7802-81, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_5916.html" target="_blank" rel="nofollow"&gt;ГОСТ 5916-70&lt;/a&gt;, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_6402.html" target="_blank" rel="nofollow"&gt;ГОСТ 6402-70&lt;/a&gt;, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_9649.html" target="_blank" rel="nofollow"&gt;ГОСТ 9649-78&lt;/a&gt;;&lt;br /&gt;- Зажимы разработаны с учетом возможности крепления как проводов согласно ГОСТ, так и удешевленных усеченных проводов без потери фиксирующей способности;&lt;br /&gt;- Зажимы сертифицированы и соответствуют всем требованиям и техническим условиям;&lt;/p&gt;&#xD;
+&lt;p&gt;При необходимости доставим товар в Киев, Днепропетровск, Запорожье и другие города.&lt;/p&gt;&#xD;
+&lt;p&gt; &lt;/p&gt;&#xD;
+&lt;p&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/-1_2.jpg?1504605267824" alt="" width="751" height="632" /&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;С полным каталогом арматуры СИП от компании ElectroTorg можно ознакомиться по этой &lt;a href="https://drive.google.com/file/d/0Bz1F5zZdlj0wNFVwOEdiN1JqZkZLR3lfM2ZTa0ptSFhtZ21J/view"&gt;ссылке&lt;/a&gt;.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;span style="color: #7f7f7f;"&gt;Аналоги:&lt;br /&gt;Sicame - Натяжной зажим для ответвительных линий GUKd 2;&lt;br /&gt;Ensto - Tension clamp SO157.1;&lt;br /&gt;E-next - Анкерный изолированный зажим e.i.clamp.si.2.16.35, с проволочной скобой;&lt;br /&gt;Львовская изоляция - Зажим анкерный ЗН 1.1;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</description>
+            <url>https://electrotorg.biz.ua/product/provolochnyi-zazhim-za-11-2kh16-25</url>
+            <price>9</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>574</categoryId>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/90/12/1290/images/33044/33044.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/90/12/1290/images/33128/33128.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/90/12/1290/images/33129/33129.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/90/12/1290/images/33380/33380.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/90/12/1290/images/33384/33384.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/90/12/1290/images/33385/33385.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/90/12/1290/images/33386/33386.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/90/12/1290/images/33457/33457.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/90/12/1290/images/33460/33460.750x0.jpg</picture>
+         </offer>
+         <offer id="625" available="true" group_id="1291">
+            <vendor>ElectroTorg</vendor>
+            <param name="Тип арматуры">Зажим натяжной(анкерный)</param>
+            <param name="Сечение жилы, кв.мм.">4x16-25</param>
+            <param name="Вес">0.11</param>
+            <param name="Цена за">штуку</param>
+            <param name="Объем">0.0012</param>
+            <name>Зажим проволочный PR 4х16-25 ET ElectroTorg  ET-PR1</name>
+            <description>&lt;p&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/1%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886336343" alt="" width="300" height="64" /&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886342237" alt="" width="300" height="64" /&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/3%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886351297" alt="" width="300" height="64" /&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;Зажимы для монтажа СИП, САП, СИП-5 СИП-5НГ и AsXSn всегда можно приобрести в интернет-магазине электротехнической продукции ЭлектроТорг. В нашем каталоге Вы найдете такое универсальное приспособление, как проволочный зажим 4х16-25, необходимый для крепления самонесущих изолированных проводов ЛЭП к опорам или фасадам сооружений и зданий. Он крепится на типовые кронштейны и крюки, которые также можно купить у нас. Такие изделия изготавливается из высококачественного материала, невосприимчивого к воздействиям ультрафиолетового излучения. Благодаря такому конструктивному исполнению, он хорошо переносит высокие уровни механических нагрузок в экстремальных погодных условиях. Конкурентные преимущества нашей продукции делают зажимы фирмы ЭлектроТорг лучшим выбором на украинском рынке, удовлетворяя всем требованиям, существующим на сегодняшний день.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Основные характеристики&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;Крепежная съемная дужка выполнена из высокопрочной низкоуглеродистой стали повышенной жесткости с покрытием цинком увеличенной толщины;&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Прижимные пластинки - высокопрочная низкоуглеродистая сталь марки 09Г2С, толщиной 2мм и с покрытием цинком увеличенной толщины (не менее 7 мкм);&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Изолирующие щечки представляют собой прочный композит, стабилизированный к УФ лучам и погодным условиям;&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Продано более 90 000 изделий по Украине и ближнему зарубежью;&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Все метизы изготавливались согласно ГОСТ 7802-81, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_5916.html"&gt;ГОСТ 5916-70&lt;/a&gt;, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_6402.html"&gt;ГОСТ 6402-70&lt;/a&gt;, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_9649.html"&gt;ГОСТ 9649-78&lt;/a&gt;;&lt;br /&gt;- Зажимы разработаны с учетом возможности крепления как проводов согласно ГОСТ, так и удешевленных усеченных проводов без потери фиксирующей способности.&lt;br /&gt;- Зажимы сертифицированы и соответствуют всем требованиям и техническим условиям.&lt;/p&gt;&#xD;
+&lt;p&gt;У нас доступная цена, доставка по всей территории Украины (Киев, Днепропетровск, Запорожье, Полтава, Сумы, и прочие) и отменное качество продуктов.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/-2_1.jpg?1504605719191" alt="" width="750" height="546" /&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;С полным каталогом арматуры СИП от компании ElectroTorg можно ознакомиться по этой &lt;a href="https://drive.google.com/file/d/0Bz1F5zZdlj0wNFVwOEdiN1JqZkZLR3lfM2ZTa0ptSFhtZ21J/view"&gt;ссылке&lt;/a&gt;.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;span style="color: #808080;"&gt;Аналоги:&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #808080;"&gt;Sicame - Натяжной зажим для ответвительных линий&lt;span class="redactor-invisible-space"&gt; GUKd 4&lt;/span&gt;;&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #808080;"&gt;Ensto - Tension clamp SO158.1&lt;span class="redactor-invisible-space"&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #808080;"&gt;E-next - Анкерный изолированный зажим e.i.clamp.si.2.16.35, с проволочной скобой;&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #808080;"&gt;Львовская изоляция - Зажим анкерный ЗН 2.1&lt;span class="redactor-invisible-space"&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+            <url>https://electrotorg.biz.ua/product/provolochnyi-zazhim-za-12-4kh16-25</url>
+            <price>10</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>574</categoryId>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/91/12/1291/images/32610/32610.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/91/12/1291/images/32611/32611.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/91/12/1291/images/32612/32612.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/91/12/1291/images/33369/33369.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/91/12/1291/images/33370/33370.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/91/12/1291/images/33371/33371.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/91/12/1291/images/33372/33372.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/91/12/1291/images/33373/33373.750x0.jpg</picture>
+         </offer>
+         <offer id="626" available="true" group_id="1292">
+            <vendor>ElectroTorg</vendor>
+            <param name="Тип арматуры">Зажим натяжной(анкерный)</param>
+            <param name="Сечение жилы, кв.мм.">2х16-25</param>
+            <param name="Вес">0.153</param>
+            <param name="Цена за">штуку</param>
+            <param name="Объем">0.0015</param>
+            <name>Зажим пластина PL 2х16-25 ET ElectroTorg  ET-PL</name>
+            <description>&lt;p&gt;&lt;span style="font-size: 14px;"&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/1%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886394393" alt="" width="300" height="64" /&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886404896" alt="" width="300" height="64" /&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/3%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886410624" alt="" width="300" height="64" /&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;span style="font-size: 14px;"&gt;Ассортимент продукции, выпускаемый под брендом ElectroTorg, включает все типы крепежных элементов, необходимых для монтажа самонесущих проводов. Зажим пластина 2х16-25 – это вид арматуры СИП, САП, СИП-5, AsXSn, предназначенный для осуществления крепления изолированных двухжильных проводников с сечением 16-25 мм2 ответвительной линии ЛЭП к стенам сооружений и опорам посредством стандартных крюков. Их установка происходит с легкостью. Корпус выполнен из атмосферостойкого высококачественного материала, а железные части — из оцинкованной стали. В зависимости от расстояния пролёта и сечения проводов, необходимо выбрать правильный вид крепления. Монтаж может производиться как с уровня земли, так и непосредственно на опоре. Разрушающая нагрузка: 500 кгс. Момент затяжки: 22 Нм.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;span style="font-size: 14px;"&gt;&lt;strong&gt;&lt;em&gt;Основные характеристики&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;span style="font-size: 14px;"&gt;&lt;strong&gt;- &lt;/strong&gt;Геометрическая форма пластины-серьги разработана с учетом проведенных испытаний, сбора нагрузок, выделением наиболее нагруженных участков и перераспределения нагрузки на большую площадь, что обеспечивает надежную фиксацию в запроектированным положении;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;- Клиновидная форма фиксирующих пластинок способствует надежному креплению провода без нарушения изоляционного слоя;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;- Универсальность зажима проявляется в возможности использования его как в роли натяжительного, так и как поддерживающий;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;&lt;strong&gt;- &lt;/strong&gt;Прижимные пластинки - высокопрочная низкоуглеродистая сталь марки 09Г2С, толщиной 2мм и с покрытием цинком увеличенной толщины (не менее 7 мкм);&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;&lt;strong&gt;- &lt;/strong&gt;Изолирующие щечки представляют собой прочный композит стабилизирован к УФ лучам и погодным условиям;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;&lt;strong&gt;- &lt;/strong&gt;Продано более 60 000 изделий по Украине и ближнему зарубежью;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;- Все метизы согласно ГОСТ 7802-81, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_5916.html"&gt;ГОСТ 5916-70&lt;/a&gt;, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_6402.html"&gt;ГОСТ 6402-70&lt;/a&gt;, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_9649.html"&gt;ГОСТ 9649-78&lt;/a&gt;;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;- Зажимы разработаны с учетом возможности крепления как проводов согласно ГОСТ, так и удешевленных усеченных проводов без потери фиксирующей способности;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;- Зажимы сертифицированы и соответствуют всем требованиям и техническим условиям.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;span style="font-size: 14px;"&gt;Доставка доступна в любой регион Украины - в Киев, Днепропетровск, Запорожье, Сумы, Полтаву, Одессу и других города.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;span style="font-size: 14px;"&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/1_2.jpg?1504606028147" alt="" width="750" height="599" /&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;span style="font-size: 14px;"&gt;С полным каталогом арматуры СИП от компании ElectroTorg можно ознакомиться по этой &lt;a href="https://drive.google.com/file/d/0Bz1F5zZdlj0wNFVwOEdiN1JqZkZLR3lfM2ZTa0ptSFhtZ21J/view"&gt;ссылке&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;span style="color: #808080; font-size: 14px;"&gt;Аналоги:&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #808080; font-size: 14px;"&gt;Sicame - Натяжной зажим для ответвительных линий GUKp 2;&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #808080; font-size: 14px;"&gt;Ensto - Tension clamp SO80S&lt;span class="redactor-invisible-space"&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #808080; font-size: 14px;"&gt;E-next - Анкерный изолированный зажим e.i.clamp.2.16.25.zr, усиленный;&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #808080; font-size: 14px;"&gt;Львовская изоляция - Зажим анкерный ЗН 1.2;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;span style="font-size: 14px;"&gt; &lt;/span&gt;&lt;/p&gt;</description>
+            <url>https://electrotorg.biz.ua/product/zazhim-plastina-za-21-2kh16-25</url>
+            <price>15</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>574</categoryId>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/92/12/1292/images/33124/33124.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/92/12/1292/images/33125/33125.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/92/12/1292/images/33126/33126.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/92/12/1292/images/33359/33359.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/92/12/1292/images/33360/33360.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/92/12/1292/images/33362/33362.750x0.jpg</picture>
+         </offer>
+         <offer id="627" available="true" group_id="1293">
+            <vendor>ElectroTorg</vendor>
+            <param name="Тип арматуры">Зажим натяжной(анкерный)</param>
+            <param name="Сечение жилы, кв.мм.">4x16-25</param>
+            <param name="Вес">0.22</param>
+            <param name="Цена за">штуку</param>
+            <param name="Объем">0.0012</param>
+            <name>Зажим пластина PL 4х16-25 ET ElectroTorg  ET-PL1</name>
+            <description>&lt;p&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/1%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886481502" alt="" width="300" height="64" /&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886491305" alt="" width="300" height="64" /&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/3%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886497462" alt="" width="300" height="64" /&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;Зажим пластина PL 4х16-25 ET является одним из приспособлений для осуществления крепления четырехжильных самонесущих изолированных проводов с сечением 16-25 мм2 к стенам и фасадам сооружений и опор, посредством применения различных стандартных крюков. Универсальность применения зажима пластины (как натяжного так и поддерживающего) обеспечивается специально спроектированные прижимные элементы, которые можно разварачивать в различных направлениях в зависимости от потребности. Отличное качество изделия обеспечивает надежное его использование. Данный продукт прошел сертификацию и соответствует всем стандартам. Состоит из оцинкованной пластинки и двух вставок из полимера, соединенных болтом.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Основные характеристики&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;Геометрическая форма пластины-серьги разработана с учетом проведенных испытаний, сбора нагрузок, выделения наиболее нагруженных участков и перераспределения нагрузки на большую площадь, что обеспечивает надежную фиксацию в запроектированным положении;&lt;br /&gt;- Клиновидная форма фиксирующих пластинок способствует надежному креплению провода без нарушения изоляционного слоя;&lt;br /&gt;- Универсальность зажима проявляется в возможности использования его как в роли натяжительного, так и как поддерживающий;&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Прижимные пластинки - высокопрочная низкоуглеродистая сталь марки 09Г2С толщиной 2мм с покрытием цинком увеличенной толщины (не менее 7 мкм);&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Изолирующие щечки представляют собой прочный композит, стабилизированый к УФ лучам и погодным условиям;&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Продано более 60 000 изделий по Украине и ближнему зарубежью;&lt;br /&gt;- Все метизы согласно ГОСТ 7802-81, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_5916.html"&gt;ГОСТ 5916-70&lt;/a&gt;, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_6402.html"&gt;ГОСТ 6402-70&lt;/a&gt;, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_9649.html"&gt;ГОСТ 9649-78&lt;/a&gt;;&lt;br /&gt;- Зажимы разработаны с учетом возможности крепления как проводов согласно ГОСТ, так и удешевленных усеченных проводов без потери фиксирующей способности;&lt;br /&gt;- Зажимы сертифицированы и соответствуют всем требованиям и техническим условиям.&lt;/p&gt;&#xD;
+&lt;p&gt;Купить зажим пластина 4х16-25 по выгодной цене Вы можете, посетив наш сайт. Заказ можно оформить, воспользовавшись корзиной или позвонив менеджеру. Доставка оперативно при помощи курьерских служб в любой регион Украины (Киев, Днепропетровск, Запорожье, Полтава, Сумы и другие).&lt;/p&gt;&#xD;
+&lt;p&gt; &lt;/p&gt;&#xD;
+&lt;p&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/1_4.jpg?1504606202654" alt="" width="750" height="625" /&gt;&lt;/p&gt;&#xD;
+&lt;p&gt; &lt;/p&gt;&#xD;
+&lt;p&gt;С полным каталогом арматуры СИП от компании ElectroTorg можно ознакомиться по этой &lt;a href="https://drive.google.com/file/d/0Bz1F5zZdlj0wNFVwOEdiN1JqZkZLR3lfM2ZTa0ptSFhtZ21J/view"&gt;ссылке&lt;/a&gt;.&lt;/p&gt;&#xD;
+&lt;p&gt;Аналоги:&lt;br /&gt;Sicame - Натяжной зажим для ответвительных линий GUKp 2;&lt;br /&gt;Ensto - Tension clamp SO80S&lt;span class="redactor-invisible-space"&gt;;&lt;/span&gt;&lt;br /&gt;E-next - Анкерный изолированный зажим e.i.clamp.2.16.25.zr, усиленный;&lt;br /&gt;ИЭК - Зажим анкерный ЗАБу 4x10-35;&lt;br /&gt;Львовская изоляция - Зажим анкерный ЗН 2.2;&lt;/p&gt;</description>
+            <url>https://electrotorg.biz.ua/product/zazhim-plastina-za-22-4kh16-25</url>
+            <price>17</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>574</categoryId>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/93/12/1293/images/32305/32305.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/93/12/1293/images/32306/32306.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/93/12/1293/images/32607/32607.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/93/12/1293/images/32608/32608.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/93/12/1293/images/32609/32609.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/93/12/1293/images/33364/33364.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/93/12/1293/images/33365/33365.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/93/12/1293/images/33366/33366.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/93/12/1293/images/33368/33368.750x0.jpg</picture>
+         </offer>
+         <offer id="629" available="true" group_id="1295">
+            <vendor>ElectroTorg</vendor>
+            <param name="Тип арматуры">Зажим натяжной(анкерный)</param>
+            <param name="Сечение жилы, кв.мм.">4x35-95</param>
+            <param name="Вес">0.81</param>
+            <param name="Цена за">штуку</param>
+            <param name="Объем">0.0012</param>
+            <name>Зажим анкерный ZA 4х35-120 ET ElectroTorg  ET-ZA</name>
+            <description>&lt;p&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/1%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886614000" alt="" width="300" height="64" /&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886620974" alt="" width="300" height="64" /&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/3%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png?1537886628562" alt="" width="300" height="64" /&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;Качественно закреплённый самонесущий изолированный провод являются гарантом бесперебойной работы систем электропередач. Для его комплектации и закрепления к опорам применимы специальные анкерные зажимы, что помогают обеспечить требуемый уровень защиты и удобства эксплуатирования. ElectroTorg рекомендует для вашего внимания серию анкерных зажимов по выгодным ценам. Вся серия таких крепежных элементов отвечает нормативно-качественным документам, имеет сертификаты качества нашей страны и отвечает установленным нормам по прокладке воздушных линий электропередач. Широкий сортимент продукции данного направления, представленный на нашем ресурсе, позволит подобрать необходимого уровня и классификации товары, что помогут максимально удобно решить вопросы по оптимизации формирования таких систем.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Основные характеристики&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;- Прижимная часть клинового типа является саморегулируемой. При монтаже конструкция зажимов равномерно распределяет механическое усилие на изоляцию проводов и предотвращает, не повреждая её, выскальзыванию проводов из зажима;&lt;br /&gt;- Клинья легко раздвигаются благодаря пружине, что облегчает установку проводов;&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Прижимные пластины - высокопрочная низкоуглеродистая сталь марки 09Г2С толщиной 3мм (а для усиленной версии – 4мм) с покрытием цинком увеличенной толщины (не менее 15 мкм);&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Изолирующие щечки представляют собой прочный композит, устойчивый к УФ лучам и погодным условиям;&lt;br /&gt;&lt;strong&gt;- &lt;/strong&gt;Продано более 60 000 изделий по Украине и ближнему зарубежью;&lt;br /&gt;- Зажим крепится на крюках опор с помощью единственного болта М12 (что обеспечивает надежное крепление зажима) и самоконтрящейся гайки;&lt;br /&gt;- Все метизы изготовлены согласно ГОСТ 7802-81, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_5916.html"&gt;ГОСТ 5916-70&lt;/a&gt;, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_6402.html"&gt;ГОСТ 6402-70&lt;/a&gt;, &lt;a href="http://hanging.ru/shop/fasteners/gost/gost_9649.html"&gt;ГОСТ 9649-78&lt;/a&gt;;&lt;br /&gt;- Правильно выполненный монтаж зажимов гарантирует надёжное крепление воздушной линии и безопасность при эксплуатации;&lt;br /&gt;- Зажимы разработаны с учетом возможности крепления как проводов согласно ГОСТ, так и удешевленных усеченных проводов без потери фиксирующей способности;&lt;br /&gt;- Зажимы сертифицированы и соответствуют всем требованиям и техническим условиям.&lt;/p&gt;&#xD;
+&lt;p&gt; &lt;/p&gt;&#xD;
+&lt;p&gt;&lt;img src="http://crm.electrotorg.biz.ua/userfiles/1_7.jpg?1504606428338" alt="" width="750" height="635" /&gt;&lt;/p&gt;&#xD;
+&lt;p&gt; &lt;/p&gt;&#xD;
+&lt;p&gt;С полным каталогом арматуры СИП от компании ElectroTorg можно ознакомиться по этой &lt;a href="https://drive.google.com/file/d/0Bz1F5zZdlj0wNFVwOEdiN1JqZkZLR3lfM2ZTa0ptSFhtZ21J/view"&gt;ссылке&lt;/a&gt;.&lt;/p&gt;&#xD;
+&lt;p&gt;Аналоги:&lt;br /&gt;ИЭК - Зажим анкерный универсальный ЗАУ 4х(35-95);&lt;br /&gt;Львовская изоляция - Зажим анкерный ЗН 2.3&lt;span class="redactor-invisible-space"&gt;.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p&gt; &lt;iframe src="//www.youtube.com/embed/XfAKcHUlbB0" width="560" height="314" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+            <url>https://electrotorg.biz.ua/product/zazhim-ankernyi-za-33-4kh35-95</url>
+            <price>82</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>574</categoryId>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/95/12/1295/images/33396/33396.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/95/12/1295/images/33397/33397.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/95/12/1295/images/33398/33398.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/95/12/1295/images/33399/33399.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/95/12/1295/images/33403/33403.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/95/12/1295/images/33407/33407.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/95/12/1295/images/33408/33408.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/95/12/1295/images/33410/33410.750x0.jpg</picture>
+            <picture>https://electrotorg.biz.ua/modules/shop/products/img/95/12/1295/images/33411/33411.750x0.jpg</picture>
+         </offer>
+      </offers>
+   </shop>
+</yml_catalog>
